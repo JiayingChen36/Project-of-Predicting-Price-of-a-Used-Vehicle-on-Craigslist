@@ -1,5 +1,8 @@
-# The overall goal of this project is to predict the price of a used vehicle on craigslist
-# The dataset is on kaggle: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+# Project of Predicting Price of a Used Vehicle on Craigslist
+
+The overall goal of this project is to predict the price of a used vehicle on craigslist
+The dataset is on kaggle: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+
 Task 1 Identify Features
 
 Task 2 Preprocessing and Baseline Model
