@@ -1,5 +1,3 @@
-# assignment-3-william-yu-jiaying-chen
-assignment-3-william-yu-jiaying-chen created by GitHub Classroom
 
 Task 1 Identify Features
 
